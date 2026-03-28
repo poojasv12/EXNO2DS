@@ -1,6 +1,6 @@
 # EXNO2DS
-NAME: RUDESH KANNA R</br>
-REF.NO:24900303</br>
+NAME: s.pooja abirami
+REF.NO:212223100041
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
